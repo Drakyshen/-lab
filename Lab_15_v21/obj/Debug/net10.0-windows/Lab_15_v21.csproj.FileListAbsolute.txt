@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.Form1.resources
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\bin\Debug\net10.0-windows\Lab_15_v21.exe
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\bin\Debug\net10.0-windows\Lab_15_v21.deps.json
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\bin\Debug\net10.0-windows\Lab_15_v21.runtimeconfig.json
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\bin\Debug\net10.0-windows\Lab_15_v21.dll
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\bin\Debug\net10.0-windows\Lab_15_v21.pdb
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.dll
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\refint\Lab_15_v21.dll
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.pdb
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\Lab_15_v21.genruntimeconfig.cache
+C:\Users\USER\source\repos\Lab_15_v21\Lab_15_v21\obj\Debug\net10.0-windows\ref\Lab_15_v21.dll
