@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.Form1.resources
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\bin\Debug\net10.0-windows\Lab17_v1.exe
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\bin\Debug\net10.0-windows\Lab17_v1.deps.json
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\bin\Debug\net10.0-windows\Lab17_v1.runtimeconfig.json
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\bin\Debug\net10.0-windows\Lab17_v1.dll
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\bin\Debug\net10.0-windows\Lab17_v1.pdb
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.dll
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\refint\Lab17_v1.dll
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.pdb
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\ref\Lab17_v1.dll

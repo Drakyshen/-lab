@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v1.Form1.resources
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v2.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lab17_v2\Lab17_v2\obj\Debug\net10.0-windows\Lab17_v2.csproj.CoreCompileInputs.cache
