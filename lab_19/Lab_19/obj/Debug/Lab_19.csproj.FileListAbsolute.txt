@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Lab_19\Lab_19\obj\Debug\Lab_19.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lab_19\Lab_19\obj\Debug\Lab_19.Properties.Resources.resources
+C:\Users\USER\source\repos\Lab_19\Lab_19\obj\Debug\Lab_19.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Lab_19\Lab_19\obj\Debug\Lab_19.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab_19\Lab_19\bin\Debug\Lab_19.exe.config
+C:\Users\USER\source\repos\Lab_19\Lab_19\bin\Debug\Lab_19.exe
+C:\Users\USER\source\repos\Lab_19\Lab_19\bin\Debug\Lab_19.pdb
+C:\Users\USER\source\repos\Lab_19\Lab_19\obj\Debug\Lab_19.exe
+C:\Users\USER\source\repos\Lab_19\Lab_19\obj\Debug\Lab_19.pdb
