@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Lab20\Lab20\obj\Debug\Lab20.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lab20\Lab20\obj\Debug\Lab20.Properties.Resources.resources
+C:\Users\USER\source\repos\Lab20\Lab20\obj\Debug\Lab20.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Lab20\Lab20\obj\Debug\Lab20.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab20\Lab20\bin\Debug\Lab20.exe.config
+C:\Users\USER\source\repos\Lab20\Lab20\bin\Debug\Lab20.exe
+C:\Users\USER\source\repos\Lab20\Lab20\bin\Debug\Lab20.pdb
+C:\Users\USER\source\repos\Lab20\Lab20\obj\Debug\Lab20.exe
+C:\Users\USER\source\repos\Lab20\Lab20\obj\Debug\Lab20.pdb
