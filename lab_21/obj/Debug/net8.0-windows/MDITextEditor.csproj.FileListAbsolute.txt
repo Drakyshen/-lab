@@ -1,0 +1,17 @@
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\bin\Debug\net8.0-windows\MDITextEditor.exe
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\bin\Debug\net8.0-windows\MDITextEditor.deps.json
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\bin\Debug\net8.0-windows\MDITextEditor.runtimeconfig.json
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\bin\Debug\net8.0-windows\MDITextEditor.dll
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\bin\Debug\net8.0-windows\MDITextEditor.pdb
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.AssemblyInfoInputs.cache
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.AssemblyInfo.cs
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.csproj.CoreCompileInputs.cache
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.sourcelink.json
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.dll
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\refint\MDITextEditor.dll
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.pdb
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.genruntimeconfig.cache
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\ref\MDITextEditor.dll
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.MainForm.resources
+C:\Users\USER\tishchenko\go_kurs\-lab\lab_21\obj\Debug\net8.0-windows\MDITextEditor.csproj.GenerateResource.cache
