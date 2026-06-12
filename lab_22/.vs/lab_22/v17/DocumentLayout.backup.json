@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\RichTextEditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\RichTextEditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\WindowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\WindowManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\EditorWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\EditorCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\EditorWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RichTextEditor\\RichTextEditor\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\README.md",
+              "RelativeDocumentMoniker": "RichTextEditor\\README.md",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\README.md",
+              "RelativeToolTip": "RichTextEditor\\README.md",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-22T18:52:37.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\App.xaml",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\App.xaml",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\App.xaml",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T18:37:06.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\WindowManager.cs",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\WindowManager.cs",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\WindowManager.cs",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\WindowManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:36:52.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RichTextEditor.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\RichTextEditor.csproj",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\RichTextEditor.csproj",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\RichTextEditor.csproj",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\RichTextEditor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-22T18:36:51.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\App.xaml.cs",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:36:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditorCommands.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorCommands.cs",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\EditorCommands.cs",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorCommands.cs",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\EditorCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:36:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorWindow.xaml",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\EditorWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorWindow.xaml",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\EditorWindow.xaml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T18:36:45.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:52:35.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\MainWindow.xaml",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T18:36:48.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RichTextEditor\\RichTextEditor\\EditorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\tishchenko\\go_kurs\\-lab\\lab_22\\RichTextEditor\\RichTextEditor\\EditorWindow.xaml.cs",
+              "RelativeToolTip": "RichTextEditor\\RichTextEditor\\EditorWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:36:43.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
